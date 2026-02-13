@@ -36,6 +36,7 @@ O sistema realiza:
 
 ## Como Executar
 
-
-Curso: Desenvolvimento de Sistemas  
-Ano: 2025
+Pegue o repositório:
+Abra o projeto no Android Studio
+Aguarde o Gradle sincronizar
+Execute
